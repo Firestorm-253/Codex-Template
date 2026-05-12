@@ -6,8 +6,9 @@ Authority, edit rules, and required read order are defined in `AGENTS.md`.
 
 ## Contract files
 
+- `PROJECT_OVERVIEW.md` — stable project-level context.
+- `CURRENT_MILESTONE.md` — active milestone context.
 - `CURRENT_TASK.md` — active task packet.
-- `CURRENT_MILESTONE.md` — current milestone context.
 - `TDD_CONTRACT.md` — test-driven-development rules.
 - `WORKFLOW.md` — per-task operating loop.
 - `memory/INDEX.md` — memory directory map and memory update rules.
