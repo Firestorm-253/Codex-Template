@@ -14,21 +14,25 @@ TBD
 
 ## Milestone goal
 
-Describe the milestone outcome in one or two sentences.
+Describe the milestone outcome in one or two sentences. (remove this after TBD is done)
+
+TBD
 
 ## Why this milestone exists
 
-Describe the reason this milestone matters.
+Describe the reason this milestone matters. (remove this after TBD is done)
+
+TBD
 
 ## In scope
 
-Only list context that belongs to this milestone.
+Only list context that belongs to this milestone. (remove this after TBD is done)
 
 - TBD
 
 ## Out of scope
 
-List milestone-specific context that may be tempting but must not be treated as part of this milestone.
+List milestone-specific context that may be tempting but must not be treated as part of this milestone. (remove this after TBD is done)
 
 - TBD
 
@@ -38,9 +42,9 @@ The active task is defined in `.codex/CURRENT_TASK.md`.
 
 ## Milestone constraints
 
-Milestone-specific constraints only.
+Milestone-specific constraints only. (remove this after TBD is done)
 
-- None beyond the global Codex rules.
+- TBD
 
 ## Milestone done when
 
