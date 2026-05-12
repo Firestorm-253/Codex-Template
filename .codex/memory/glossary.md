@@ -20,13 +20,17 @@ An owner-authored Markdown file with an ALL_CAPS name.
 
 A lowercase Markdown file that Codex may update when the current task changes the facts it describes.
 
-### Current task
+### Project overview
 
-The task packet stored in `.codex/CURRENT_TASK.md`.
+The project-level context stored in `.codex/PROJECT_OVERVIEW.md`.
 
 ### Current milestone
 
 The milestone context stored in `.codex/CURRENT_MILESTONE.md`.
+
+### Current task
+
+The task packet stored in `.codex/CURRENT_TASK.md`.
 
 ### TDD
 
