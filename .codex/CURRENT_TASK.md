@@ -1,9 +1,5 @@
 # Current Task
 
-## Task status
-
-NOT SET
-
 ## Task ID
 
 TBD

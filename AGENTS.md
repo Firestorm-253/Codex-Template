@@ -14,21 +14,6 @@ Codex must not infer additional tasks from missing features, incomplete architec
 
 When the current task is complete, Codex must stop and report completion.
 
-## Required read order
-
-Before planning or editing, read these files in order:
-
-1. `.codex/INDEX.md`
-2. `.codex/CURRENT_TASK.md`
-3. `.codex/TDD_CONTRACT.md`
-4. `.codex/CURRENT_MILESTONE.md`
-5. `.codex/WORKFLOW.md`
-6. `.codex/memory/INDEX.md`
-7. `.codex/memory/project_state.md`
-8. Any additional files explicitly referenced by the current task
-
-Do not scan unrelated files to gather extra context. Pull in additional files only when they are needed for the current task.
-
 ## File authority
 
 `AGENTS.md` and Markdown files with ALL_CAPS names are owner-authored contract files.
@@ -50,8 +35,6 @@ If a task appears to require outside files, stop and report the missing dependen
 Only implement the task described in `.codex/CURRENT_TASK.md`.
 
 `.codex/CURRENT_MILESTONE.md` provides context and constraints. It is not permission to implement the whole milestone.
-
-If `.codex/CURRENT_TASK.md` has `Task status: NOT SET`, do not modify code. Report that no active task is configured.
 
 ## TDD requirement
 

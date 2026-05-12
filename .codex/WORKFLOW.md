@@ -4,9 +4,18 @@ This file defines the standard Codex workflow for one task.
 
 ## Phase 1: Load context
 
-1. Load the required context defined in `AGENTS.md`.
-2. If `Task status` in `.codex/CURRENT_TASK.md` is `NOT SET`, stop without changing files.
-3. Read only additional files explicitly referenced by the current task or required to understand touched code.
+Before planning or editing, read these files in order:
+
+1. `.codex/INDEX.md`
+2. `.codex/WORKFLOW.md`
+3. `.codex/TDD_CONTRACT.md`
+4. `.codex/CURRENT_TASK.md`
+5. `.codex/CURRENT_MILESTONE.md`
+6. `.codex/memory/INDEX.md`
+7. `.codex/memory/project_state.md`
+8. Any additional files if necessary.
+
+Do not scan unrelated files to gather extra context. Pull in additional files only when they are needed for the current task.
 
 ## Phase 2: Check scope
 
