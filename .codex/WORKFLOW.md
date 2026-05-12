@@ -45,7 +45,7 @@ Stop and report instead of guessing if:
 - required files do not exist and the task does not allow creating them,
 - tests cannot be run because required tooling is missing,
 - implementation would require changing immutable contract files,
-- the task conflicts with `AGENTS.md`, `.codex/TDD_CONTRACT.md`, or `.codex/CURRENT_MILESTONE.md`.
+- the task conflicts with `AGENTS.md`, or `.codex/TDD_CONTRACT.md`.
 
 ## Phase 8: Completion gate
 
@@ -56,7 +56,7 @@ Before final response, verify:
 - [ ] TDD requirements in `.codex/TDD_CONTRACT.md` are satisfied, unless the task is documentation-only.
 - [ ] Mutable memory files were updated or explicitly deemed unchanged.
 - [ ] No immutable contract file was changed.
-- [ ] No milestone-level or future work was implemented.
+- [ ] No project-level, milestone-level, or future work was implemented.
 
 ## Phase 9: Final response
 
