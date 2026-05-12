@@ -14,13 +14,16 @@ TBD
 
 ## Goal
 
-Describe the smallest useful outcome this task must produce.
+Describe the smallest useful outcome this task must produce. (remove this after TBD is done)
+
+TBD
 
 ## User-visible behavior
 
-Describe what changes for the user, if anything.
+Describe what changes for the user, if anything. (remove this after TBD is done)
+If there is no user-visible behavior, write `None`. (remove this after TBD is done)
 
-If there is no user-visible behavior, write `None`.
+TBD
 
 ## Allowed edit scope
 
@@ -53,10 +56,10 @@ This task is complete when:
 
 Task-specific exclusions:
 
-- None.
+- TBD.
 
 ## Stop conditions
 
 Task-specific stop conditions:
 
-- None.
+- TBD.
