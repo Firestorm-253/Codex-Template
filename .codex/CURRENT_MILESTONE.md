@@ -1,6 +1,6 @@
 # Current Milestone
 
-This file provides context for `.codex/CURRENT_TASK.md`.
+This file provides milestone-level context for `.codex/CURRENT_TASK.md`.
 
 It is not a task list. Codex may implement only the active task, not the whole milestone.
 
@@ -45,7 +45,3 @@ Milestone-specific constraints only.
 ## Milestone done when
 
 - [ ] TBD
-
-## Conflict handling
-
-If a detail in this file conflicts with `.codex/CURRENT_TASK.md`, stop and report the conflict.
