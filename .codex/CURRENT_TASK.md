@@ -22,24 +22,6 @@ Describe what changes for the user, if anything.
 
 If there is no user-visible behavior, write `None`.
 
-## Current-state context
-
-Describe only the current state relevant to this task.
-
-Do not include future roadmap details.
-
-## Files likely involved
-
-List expected files or folders.
-
-- TBD
-
-## Additional context to read
-
-List only task-specific files beyond the standard read order in `AGENTS.md`.
-
-- None.
-
 ## Allowed edit scope
 
 Codex may edit only:
